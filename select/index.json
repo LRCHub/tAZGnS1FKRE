@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】ないばいたりてぃ covered by 愛音",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T03:11:08.411567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様。",
+      "has_synced": true,
+      "path": "select/02_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様。",
+      "has_synced": true,
+      "path": "select/03_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/04_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "【MV】ないばいたりてぃ／P丸様。",
+      "artist": "Pmarusama",
+      "has_synced": true,
+      "path": "select/05_【MV】ないばいたりてぃ_P丸様。_Pmarusama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様。",
+      "has_synced": true,
+      "path": "select/06_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/07_ないばいたりてぃ_n-buna.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "【歌ってみた】ないばいたりてぃ covered by 愛音",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_【歌ってみた】ないばいたりてぃ_covered_by_愛音_MyGO!!!!!.txt"
+    }
+  ]
+}
